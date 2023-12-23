@@ -13,3 +13,11 @@ build/
 *.lai
 *.la
 *.a
+
+# generated files
+.vscode
+CMakeFiles/
+CMakeCache.txt
+Makefile
+CppKoans
+cmake_install.cmake
